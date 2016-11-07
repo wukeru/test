@@ -1,0 +1,46 @@
+TIME     : 2016-07-08 14:54:21
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 5772
+
+
+TIME     : 2016-07-08 14:54:21
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 5036
+
+
+TIME     : 2016-07-08 14:54:21
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 6960
+
+
+TIME     : 2016-07-08 14:54:21
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 2616
+
+
+TIME     : 2016-07-08 14:54:21
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveMachine
+LINENUM  : 592
+DETAIL   : ErrorCode is "3". Detail : VB_ERR_MACHINE_NOEXIST
+
+TIME     : 2016-07-08 14:56:58
+FILE     : RemoveSnapshot.cpp
+FUNCTION : CRemoveSnapshot::exec
+LINENUM  : 61
+DETAIL   : ErrorCode is "97". Detail : VB_ERR_GET_CUR_SNAPSHOT_FAILE
+
+TIME     : 2016-07-08 15:14:07
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StopMachine
+LINENUM  : 371
+DETAIL   : ErrorCode is "8". Detail : VB_ERR_MACHINE_STOP_FAIL
+
